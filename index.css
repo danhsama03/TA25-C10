@@ -1,0 +1,16 @@
+#breeds-list {
+  display: flex;
+  flex-direction: column;
+}
+#breeds-list div {
+  padding: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 4px;
+  padding: 0px 50px 25px;
+  line-height: 150%;
+}
+#breeds-list h3 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=index.css.map */
